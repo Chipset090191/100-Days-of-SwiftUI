@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79394281-9F2D-4628-BD9D-F563F15B32AD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "532D8A52-D81D-4B9F-A66F-BBF1C353C990"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data_From_Inet/Users.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "Users"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "532D8A52-D81D-4B9F-A66F-BBF1C353C990 - 7f7bf4f4ada10230"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_From_Inet.Users.findUser(id: Swift.String) -&gt; Data_From_Inet.User"
+                  moduleName = "Data_From_Inet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20SwiftUI/Challenge_60day/Data_From_Inet(first_ver)/Data_From_Inet/Users.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "532D8A52-D81D-4B9F-A66F-BBF1C353C990 - cd9550495b4a5b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Data_From_Inet.User) -&gt; Swift.Bool in Data_From_Inet.Users.findUser(id: Swift.String) -&gt; Data_From_Inet.User"
+                  moduleName = "Data_From_Inet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20SwiftUI/Challenge_60day/Data_From_Inet(first_ver)/Data_From_Inet/Users.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

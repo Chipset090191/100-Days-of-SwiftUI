@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #4 in closure #1 in closure #1 in AddBookView.body.getter:AddBookView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "genre">
+            </PersistentString>
+            <PersistentString
+               value = "newBook.date">
+            </PersistentString>
+            <PersistentString
+               value = "newBook.genre">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
