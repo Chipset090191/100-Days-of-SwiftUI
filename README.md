@@ -2,17 +2,18 @@
 
 That`s 100 days of SwiftUI course was made by [:+1: Paul Hudson :+1:](https://www.hackingwithswift.com/100/swiftui). I took this course through all its challenges.
 
-In this course I worked with Frameworks such as:
+Frameworks:
 * _Core ML;_
 * _Core Data;_
 * _MapKit;_
 * _CoreImage;_
 * _UserNotifications._
 
-API, concept and tool:
+API, concepts and tools:
 * _User Defaults;_
 * _Documents directory;_
-* _Accessibility._
+* _Accessibility;_
+* _Local Authentication (Face ID)._
 
 
 You can find so many interesting things by following this source [https://www.hackingwithswift.com](www.hackingwithswift.com).
@@ -46,30 +47,32 @@ Ok). let`s go back to our drawing board:
 ## My Big challenges from the blank sheet. I created apps that`re below by using knowledges of this course. 
 
 ### 1. Challenge of the 25th day. [RockPaperAndScissors](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_25day)
-
-<img width="273" alt="Screenshot 2023-10-24 at 23 48 46" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/ad0b1c8c-2b3b-4843-a20d-596099fb0020">
+<img width="279" alt="Screenshot 2023-10-26 at 02 02 23" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/f338d9a7-f52c-4ca0-b21d-21bcabedd479">
 
 ### 2. Challenge of the 35th day. [Multiplication tables](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_35day)
+<img width="275" alt="Screenshot 2023-10-26 at 12 24 34" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/f628be92-f98f-4bbd-aee5-9917060d9f57">
 
-<img width="278" alt="Screenshot 2023-10-24 at 23 52 02" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/8e0e44ab-280f-4f43-b9e8-d3fba58cfddd">
-
-<img width="285" alt="Screenshot 2023-10-24 at 23 52 27" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/8456970d-ff98-465f-bf4f-24f39cf5feed">
+<img width="273" alt="Screenshot 2023-10-26 at 12 24 59" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/ce0edb2e-228e-4977-ae7f-df17b357ade0">
 
 ### 3. Challenge of the 47th day. [Tracking app](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_47day/new%20one%20habbit-tracking%20app%20(my%20project))
+<img width="265" alt="Screenshot 2023-10-26 at 12 26 42" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/8f54627b-bdf6-4767-add1-090e224b5e12">
+<img width="267" alt="Screenshot 2023-10-26 at 12 27 42" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/d59a0643-88f8-48e6-be4d-bee22813e3d7">
 
-<img width="271" alt="Screenshot 2023-10-25 at 00 02 54" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/6a508587-5f55-4eef-9d09-cc1c36b741e4">
-<img width="284" alt="Screenshot 2023-10-25 at 00 03 28" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/c1bdeca5-f820-4e7f-b432-027b8781fa9e">
 
 ### 4. Challenges of the 60th - 61st day. [Fetching data from inet and CoreData](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_61day)
+<img width="267" alt="Screenshot 2023-10-26 at 12 29 41" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/4409c091-b1d3-4c51-b5ae-9fc493d8ad0f">
+<img width="267" alt="Screenshot 2023-10-26 at 12 30 35" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/6e56c382-4acd-4e7d-8ca4-85ab72b8c348">
+
 
 ### 5. Challenges of the 77th - 78th day. [Images from Library + MapKit](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_78day/ImagesFromaLibrary%20%2B%20map%20(My%20Version))
 
-<img width="286" alt="Screenshot 2023-10-25 at 00 17 50" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/c2a3c87e-b362-415f-8498-cfe1e9b0f5ca">
-<img width="282" alt="Screenshot 2023-10-25 at 00 18 19" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/7e6d9a26-276b-43ca-94a4-1bb65aab005c">
+<img width="268" alt="Screenshot 2023-10-26 at 12 33 49" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/08796f9b-4e11-4484-942f-3d8a9bd9b6da">
+<img width="268" alt="Screenshot 2023-10-26 at 12 34 32" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/9176ade1-7faa-4668-9352-2c65617fa087">
 
 ### 6. Challenges of the 95th day. [RollDice](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_95day)
 
-<img width="265" alt="Screenshot 2023-10-25 at 00 44 35" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/ce6dd221-325a-4371-bf4e-63ca493ecf37">
+<img width="262" alt="Screenshot 2023-10-26 at 12 35 45" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/925f34fa-7a02-4538-a4a0-dbf4e8877dac">
+
 
 
 ## Checkpoints.
