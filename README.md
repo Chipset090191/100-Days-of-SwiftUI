@@ -52,7 +52,8 @@ Ok). let`s go back to our drawing board:
 ### 2. Challenge of the 35th day. [Multiplication tables](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_35day)
 <img width="275" alt="Screenshot 2023-10-26 at 12 24 34" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/f628be92-f98f-4bbd-aee5-9917060d9f57">
 
-<img width="273" alt="Screenshot 2023-10-26 at 12 24 59" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/ce0edb2e-228e-4977-ae7f-df17b357ade0">
+<img width="374" alt="Multiplication tables" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/3c62a601-e5cb-411e-9ebf-ba06c55bf5c0">
+
 
 ### 3. Challenge of the 47th day. [Tracking app](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_47day/new%20one%20habbit-tracking%20app%20(my%20project))
 <img width="265" alt="Screenshot 2023-10-26 at 12 26 42" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/8f54627b-bdf6-4767-add1-090e224b5e12">
