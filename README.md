@@ -68,7 +68,8 @@ Ok). let`s go back to our drawing board:
 ### 5. Challenges of the 77th - 78th day. [Images from Library + MapKit](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_78day/ImagesFromaLibrary%20%2B%20map%20(My%20Version))
 
 <img width="268" alt="Screenshot 2023-10-26 at 12 33 49" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/08796f9b-4e11-4484-942f-3d8a9bd9b6da">
-<img width="268" alt="Screenshot 2023-10-26 at 12 34 32" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/9176ade1-7faa-4668-9352-2c65617fa087">
+<img width="268" alt="Screenshot 2024-04-16 at 01 14 30" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/899005b0-b3b7-40bf-a553-a7342e16176c">
+
 
 ### 6. Challenges of the 95th day. [RollDice](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_95day)
 
