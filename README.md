@@ -71,6 +71,10 @@ Ok). let`s go back to our drawing board:
 <img width="268" alt="Screenshot 2024-04-16 at 01 14 30" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/899005b0-b3b7-40bf-a553-a7342e16176c">
 
 
+https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/8b102c83-d6fe-4860-9d80-2ea9cdfb34af
+
+
+
 ### 6. Challenges of the 95th day. [RollDice](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_95day)
 
 <img width="262" alt="Screenshot 2023-10-26 at 12 35 45" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/925f34fa-7a02-4538-a4a0-dbf4e8877dac">
