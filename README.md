@@ -65,7 +65,7 @@ Ok). let`s go back to our drawing board:
 <img width="267" alt="Screenshot 2023-10-26 at 12 30 35" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/6e56c382-4acd-4e7d-8ca4-85ab72b8c348">
 
 
-### 5. Challenges of the 77th - 78th day. [Images from Library + MapKit](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_78day/ImagesFromaLibrary%20%2B%20map%20(My%20Version))
+### 5. Challenges of the 77th - 78th day. [Images from Library(MVVM) + MapKit](https://github.com/Chipset090191/100-Days-of-SwiftUI/tree/main/Challenge_78day)
 
 <img width="268" alt="Screenshot 2023-10-26 at 12 33 49" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/08796f9b-4e11-4484-942f-3d8a9bd9b6da">
 <img width="268" alt="Screenshot 2024-04-16 at 01 14 30" src="https://github.com/Chipset090191/100-Days-of-SwiftUI/assets/65133797/899005b0-b3b7-40bf-a553-a7342e16176c">
